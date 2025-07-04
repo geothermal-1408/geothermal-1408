@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **geothermal-1408/geothermal-1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,16 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=geothermal-1408)](https://github.com/geothermal-1408/github-readme-stats)
-
 <h1 align="center">Hi 👋, I'm Souvik</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geothermal-1408&label=Profile%20views&color=0e75b6&style=flat" alt="geothermal-1408" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geothermal-1408" alt="geothermal-1408" /></a> </p>
-
-- 🌱 I’m currently learning **Express,DSA,Mongodb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
