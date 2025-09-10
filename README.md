@@ -4,7 +4,6 @@
   
   ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Backend+Developer+%7C+Game+Developer;Building+the+Future%2C+One+Code+at+a+Time;Let's+Create+Something+Amazing!)
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Innovation%20Meets%20Code&descAlignY=51&descAlign=50" width="100%"/>
   
 </div>
 
