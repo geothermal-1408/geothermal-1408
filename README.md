@@ -1,51 +1,108 @@
-<h1 align="center" ">
-  Hey there 👋, I'm Souvik Kisku!!</span>
-</h1>
+# 🚀 Souvik Kisku
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Atma&weight=600&size=23&pause=1000&color=E0D7FF&center=true&vCenter=true&width=500&lines=Let%E2%80%99s+hack%2C+build%2C+and+break+stuff!;Recreational+Programming+%3A)" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Backend+Developer+%7C+Game+Developer;Building+the+Future%2C+One+Code+at+a+Time;Let's+Create+Something+Amazing!)
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Innovation%20Meets%20Code&descAlignY=51&descAlign=50" width="100%"/>
+  
+</div>
 
-<img align="center" alt="cybercity" width="1100" height="450" src="https://github.com/user-attachments/assets/4d1a2a45-05d0-4d87-a8ba-90a5424535fb">
+---
 
+## 🌟 **About Me**
 
+```typescript
+const souvik = {
+  name: "Souvik Kisku",
+  role: "Backend Developer & Game Developer",
+  location: "India 🇮🇳",
+  currentFocus: ["Backend Development", "Game Development", "System Programming"],
+  motto: "Code with Purpose, Build with Passion"
+};
+```
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4d1a2a45-05d0-4d87-a8ba-90a5424535fb" alt="Cyberpunk City" width="100%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.3);"/>
+</div>
 
-
-- 📫 How to reach me: **savvy3526@gmail.com**
-- 🌱 I’m currently into Backend Development,Game Development
-- 🔭 Currently working on ***GoChat***.
-- 📃 Download my resume from here [Resume.pdf](https://github.com/user-attachments/files/22248177/Resume.Souvik.v25.6.12.pdf)
-
-
-
-- 🌐 Want to explore more about me? Check out my portfolio website [click here](https://geothermal-1408.github.io/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/SouvikKisku14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SouvikKisku14" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/souvik-kisku-843617328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik-kisku" height="30" width="40" /></a>
-</p>
-
+---
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/></a>&nbsp;<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>&nbsp;</a>
-<a href="https://ziglang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="zig" width="40" height="40"/> </a>&nbsp<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;<a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠️ **Tech Arsenal**
 
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geothermal-1408&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="geothermal-1408" /></p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,fortran,py,js,ts,html,css,react,nextjs,vite,tailwind,express,nodejs,mongodb,postgres,mysql,emacs,vscode,vim,npm,postman,git,github,md,&perline=15" />    
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geothermal-1408&show_icons=true&theme=highcontrast&locale=en" alt="geothermal-1408" /></p>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=geothermal-1408&theme=radical)](https://git.io/streak-stats)
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geothermal-1408&label=Profile%20views&color=0e75b6&style=flat" alt="geothermal-1408" /> </p>
+## 📊 **GitHub Analytics**
 
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geothermal-1408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=C9D1D9"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geothermal-1408&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=C9D1D9"/>
+  
+</div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=geothermal-1408&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=geothermal-1408&theme=tokyonight&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=00D9FF&sideLabels=C9D1D9&dates=C9D1D9)
+  
+</div>
 
+---
 
-<p align="left"><img src="https://github-trophies.vercel.app/?username=geothermal-1408&theme=radical" alt="geothermal-1408" /></p>
+## 🏆 **Achievements**
+
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=geothermal-1408&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
+  
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geothermal-1408&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FF6B6B&area=true&hide_border=true)
+  
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://geothermal-1408.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-kisku-843617328)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SouvikKisku14)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savvy3526@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/user-attachments/files/22248177/Resume.Souvik.v25.6.12.pdf)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%"/>
+  
+  **💡 "The future belongs to those who code it."**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=geothermal-1408&label=Profile%20Views&color=00D9FF&style=flat-square)
+  
+</div>
+
+---
+
+*✨ This README was crafted with passion and a touch of futuristic magic ✨*
