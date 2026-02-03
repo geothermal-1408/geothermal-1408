@@ -1,0 +1,41 @@
+name: Generate Top Languages Card
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every 24 hours
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          # Specify the card type
+          card: "top-langs"
+          
+          # OPTIONS: Customize your card here!
+          # - layout=compact: Shows a list instead of bars (optional)
+          # - theme: Choose a color theme (e.g., dracula, radical, onedark)
+          # - langs_count: Number of languages to display
+          # - hide: Hide specific languages (e.g., &hide=html,css)
+          options: "username=${{ github.repository_owner }}&layout=compact&theme=algolia&langs_count=8"
+          
+          # Output file path
+          path: "profile/top-langs.svg"
+          
+          # Token to fetch stats
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs.svg
+          git commit -m "Update top languages card" || echo "No changes to commit"
+          git push
