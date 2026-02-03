@@ -24,7 +24,7 @@ jobs:
           # - theme: Choose a color theme (e.g., dracula, radical, onedark)
           # - langs_count: Number of languages to display
           # - hide: Hide specific languages (e.g., &hide=html,css)
-          options: "username=${{ github.repository_owner }}&layout=compact&theme=algolia&langs_count=8"
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=algolia&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF"
           
           # Output file path
           path: "profile/top-langs.svg"
