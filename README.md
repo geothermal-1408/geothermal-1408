@@ -62,7 +62,7 @@ const souvik = {
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=geothermal-1408&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
+  ![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=geothermal-1408&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
   
 </div>
 
