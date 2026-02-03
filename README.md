@@ -8,22 +8,10 @@
 </div>
 
 ---
-
-## 🌟 **About Me**
-
-```typescript
-const souvik = {
-  name: "Souvik Kisku",
-  role: "Backend Developer & Game Developer",
-  location: "India 🇮🇳",
-  currentFocus: ["Backend Development", "Game Development", "System Programming"],
-  motto: "Code with Purpose, Build with Passion"
-};
-```
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4d1a2a45-05d0-4d87-a8ba-90a5424535fb" alt="Cyberpunk City" width="100%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.3);"/>
 </div>
+
 
 ---
 
@@ -43,10 +31,10 @@ const souvik = {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
+    
+  <img height="180em" src="./profile/profile-stats.svg" alt="Profile Stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geothermal-1408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=C9D1D9"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geothermal-1408&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
   
 </div>
 
@@ -103,5 +91,3 @@ const souvik = {
 </div>
 
 ---
-
-*✨ This README was crafted with passion and a touch of futuristic magic ✨*
