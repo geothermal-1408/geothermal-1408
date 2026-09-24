@@ -1,0 +1,38 @@
+name: Generate GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Activity Graph
+        uses: dturovskiy/deus-commit-chart@v1
+        with:
+          username: ${{ github.repository_owner }}
+          default-days: '30'
+          ranges: '30,90,365'
+          layout: spacious
+          output: profile/activity-graph.svg
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/activity-graph.svg
+
+          git diff --cached --quiet || \
+            git commit -m "Update activity graph"
+
+          git push
