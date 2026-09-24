@@ -20,6 +20,7 @@ jobs:
         uses: dturovskiy/deus-commit-chart@v1
         with:
           username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           default-days: '30'
           ranges: '30,90,365'
           layout: spacious
