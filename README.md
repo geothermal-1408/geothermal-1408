@@ -40,8 +40,8 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=geothermal-1408&theme=tokyonight&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=00D9FF&sideLabels=C9D1D9&dates=C9D1D9)
-  
+ <img height="180em" src="./profile/streak.svg" alt="Streak stats" />
+ 
 </div>
 
 ---
@@ -50,7 +50,7 @@
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy-kannan.vercel.app/?username=geothermal-1408&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
+  ![Trophies](https://github-profile-trophy-unserori.vercel.app/?username=geothermal-1408&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
   
 </div>
 
@@ -60,8 +60,11 @@
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geothermal-1408&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FF6B6B&area=true&hide_border=true)
-  
+   <img
+    src="https://raw.githubusercontent.com/geothermal-1408/geothermal-1408/activity-assets/activity-30d.svg"
+    alt="GitHub contribution activity for the last 30 days"
+  />
+
 </div>
 
 ---
